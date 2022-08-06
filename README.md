@@ -18,7 +18,7 @@ Some screenshots from the game
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/110713501/183259024-7df80d08-4941-43af-bc23-c98c562334ec.png" width="640" height="480"  />
+<img src="https://user-images.githubusercontent.com/110713501/183259024-7df80d08-4941-43af-bc23-c98c562334ec.png" width="800" height="480"  />
 </p>
 
 
