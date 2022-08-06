@@ -4,11 +4,11 @@ I created this game at the beginning of my programming adventure. <br>
 To run this game you have to just open .exe file. <br>
 Hope you like it! :)
 
-Key bindings:
-W - up
-A - left
-D - right
-Space - shoot
+Key bindings:<br>
+W - up<br>
+A - left<br>
+D - right<br>
+Space - shoot<br>
 Enter - run game
 
 Some screenshots from the game
